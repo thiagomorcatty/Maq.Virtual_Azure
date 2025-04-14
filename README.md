@@ -12,3 +12,6 @@ Como criar uma conta na Azure:
 Benefícios da Nuvem:
 1) 99,999% de SLA, tem 6 segundos de inatividade por semana, 25,9 segundos por mês. 99% de SLA tem 1,68 hora de inatividade por semana e 7,2h por mês. Quanto mais casas decimais, menos tempo de SLA.
 2) LRS - Armazenamento com Redundancia Local, GRS - Armazenamento com Redundancia Geoografica, ZRS - Armazenamento com redundancia de zona. Custo x SLA.
+
+Microsoft Defender para nuvem
+Camadas de Perímetro
