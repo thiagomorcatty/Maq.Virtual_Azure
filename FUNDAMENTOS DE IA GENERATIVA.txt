@@ -1,0 +1,39 @@
+CONCEITOS DE IA GENERATIVA
+
+CONCEITO: Cria conteúdo original, Usam linguagem natural e retornam respostas apropriadas aos formatos.
+
+TIPOS:
+- Geração de Linguagem Natural
+- Geração de Imagem ou vídeo
+- Geração de Código.
+
+MODELOS DE LINGUAGENS GRANDES:
+PLN - Processamento de Linguagem Natural
+LLMs - Modelo de Linguagem grandes
+
+TRANSFOMADOR:
+- Bloco codificador: Cria representações semânticas do vocabulário de treinamento.
+- Bloco Decodificador: Gera nova sequências de linguagem.
+- Token: identificar um token numérico exclusivo em um texto.
+- Inserção: Valores de vetores com varias dimensões, são atribuídas a tokens.
+
+- No decodificador, tenta prever a sequencia provável de tokens (Completar automático do teclado do celular)
+
+TOKENIZAÇÃO: GERAÇÃO DE TOKENS
+- Treinamento de um modelo de transformador é decompor o texto de treinamento de tokens.
+- Inserção: Criação de vetores, estabelecendo relações entre os tokens.
+- Atenção: Capture força das relações entre tokens usando a técnica de atenção.
+
+COPILOTS
+- Integração entre aplicativos frequentemente integrados.
+- Desenvolvedores criam prompts para grandes modelos de linguagens.
+- Aumentar a produtividade e criatividade.
+
+ENGENHARIA DE PROMPTS:
+- Processo de aprimoramento de prompts.
+- Não é a melhor resposta e sim, a melhor pergunta. 
+- Linguagem direta: comandos diretos de ação que deve fazer;
+- Mensagem do sistema: Descrever como deve funcionar
+- Dados de fundamentação: Fornecer exemplos, incluir dados importantes.
+
+

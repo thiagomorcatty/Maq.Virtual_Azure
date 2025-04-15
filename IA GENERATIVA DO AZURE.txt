@@ -1,0 +1,43 @@
+IA GENERATIVA DO AZURE
+
+CONCEITOS FUNDAMENTAIS DE IA
+- Reconhecimento de Padrões com base em histórico.
+- Extrair informações de fontes confiáveis.
+- Compreender a linguagem e conversas (chatbox)
+- Reconhecer eventos anormais e ajudar na tomada de decisão.
+- Interpretando informações visuais.
+
+MACHINE LEARNING:
+- Modelo Preditivo baseados em dados e Estatísticas.
+
+VISÃO COMPUTACIONAL:
+- Capacidade de IA para interpretar o mundo visualmente por meio de câmeras, vídeos e imagens.
+
+PROCESSAMENTO DE LINGUAGEM NATURAL:
+- Capacidade da IA para que um computador interprete a linguagem escrita ou falada e responda adequadamente.
+
+INTELIGEÊNCIA DE DOCUMENTOS:
+- Capacidade de IA que lidam com o Gerenciamento, processamento e uso de grandes volumes de dados encontrados em formulários e documentos.
+
+MINERAÇÃO DE CONHECIMENTO:
+- Capacidade de IA para extrais informações de grandes volumes de dados muitas vezes não estruturados para criar um armazenamento de conhecimento pesquisável.
+- Ingerir, Enriquecer e Explorar.
+
+IA GENERATIVA:
+- Recursos de IA que criam conteúdo original em vários formatos, incluindo linguagem natural, imagem, código e muito mais.
+
+IMPARCIALIDADE:
+- Pré contextos que podem afetar os resultados.
+
+CONFIABILIDADE E SEGURANÇA:
+- Não pode ter erros.
+
+PRIVACIDADE E SEGURANÇA:
+- Dados privados não podem ser expostos.
+
+INCLUSÃO E TRANSPARENCIA:
+- Inclusão: Soluções que podem não funcionar para todos.
+- Transparência: Confiança dos usuários em sistemas complexos.
+
+RESPONSABILIDADE:
+- Responsabilidade dos dados, decisões e informações utilizadas.
